@@ -12,3 +12,5 @@ html attributes
 css attributes
 image description
 title "website" replaced with "Horiseon"
+
+<img width="726" alt="Screenshot 2023-10-05 at 3 46 35 PM" src="https://github.com/dannydleegithub/Horiseon/assets/145961104/ea763278-7080-44f6-9df2-d5f10adf1e8f">
