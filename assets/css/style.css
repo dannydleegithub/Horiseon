@@ -1,29 +1,33 @@
+/* CSS Style Sheet */
+/* Universal selector */
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
-
+/* Element selectors */
+/* Set background body color to light greyish green hex*/
 body {
-    background-color: #d9dcd6;
+    background-color: #d9dcd6; 
 }
 
+/* Set header padding, header font, background color blue hex, font color white hex*/
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
     color: #ffffff;
 }
-
+/* Set header 1 to display inline-block style and 48 pixels */
 .header h1 {
     display: inline-block;
     font-size: 48px;
 }
-
+/* Set header 1 to display color light greyish green hex*/
 .header h1 .seo {
     color: #d9dcd6;
 }
-
+/* Set header divider and font style and size */
 .header div {
     padding-top: 15px;
     margin-right: 20px;
@@ -49,7 +53,7 @@ a {
 p {
     font-size: 16px;
 }
-
+/* Set background image*/
 .hero {
     height: 800px;
     width: 100%;
@@ -68,7 +72,7 @@ p {
     float: right;
     margin-left: 25px;
 }
-
+/* Set content font size */
 .content {
     width: 75%;
     display: inline-block;
@@ -187,7 +191,7 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/* Set footer font and size*/
 .footer {
     padding: 30px;
     clear: both;
